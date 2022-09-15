@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "flameexplode.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 984,
+				"h": 1561
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "flame_explode_07",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 587,
+						"h": 564
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 5,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "flame_explode_03",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 587,
+						"h": 564
+					},
+					"spriteSourceSize": {
+						"x": 157,
+						"y": 163,
+						"w": 280,
+						"h": 277
+					},
+					"frame": {
+						"x": 570,
+						"y": 1,
+						"w": 280,
+						"h": 277
+					}
+				},
+				{
+					"filename": "flame_explode_02",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 587,
+						"h": 564
+					},
+					"spriteSourceSize": {
+						"x": 236,
+						"y": 237,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 852,
+						"y": 1,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "flame_explode_01",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 587,
+						"h": 564
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 276,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 852,
+						"y": 138,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "flame_explode_08",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 587,
+						"h": 564
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 55,
+						"w": 534,
+						"h": 507
+					},
+					"frame": {
+						"x": 1,
+						"y": 559,
+						"w": 534,
+						"h": 507
+					}
+				},
+				{
+					"filename": "flame_explode_06",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 587,
+						"h": 564
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 40,
+						"w": 511,
+						"h": 492
+					},
+					"frame": {
+						"x": 1,
+						"y": 1068,
+						"w": 511,
+						"h": 492
+					}
+				},
+				{
+					"filename": "flame_explode_05",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 587,
+						"h": 564
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 57,
+						"w": 469,
+						"h": 474
+					},
+					"frame": {
+						"x": 514,
+						"y": 1068,
+						"w": 469,
+						"h": 474
+					}
+				},
+				{
+					"filename": "flame_explode_04",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 587,
+						"h": 564
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 116,
+						"w": 416,
+						"h": 377
+					},
+					"frame": {
+						"x": 537,
+						"y": 559,
+						"w": 416,
+						"h": 377
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:22bd89853e9510ecc083857ca105fc88:5d93d36165a1042767c31ef35efb2560:69859025ec8a726632b34020b50b1cdf$"
+	}
+}

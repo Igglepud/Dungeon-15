@@ -1,0 +1,216 @@
+{
+    "anims": [
+        {
+            "key": "lightningExplosion",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lightning",
+                    "frame": "electric_explode_01",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lightning",
+                    "frame": "electric_explode_02",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lightning",
+                    "frame": "electric_explode_03",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lightning",
+                    "frame": "electric_explode_04",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lightning",
+                    "frame": "electric_explode_05",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lightning",
+                    "frame": "electric_explode_06",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lightning",
+                    "frame": "electric_explode_07",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lightning",
+                    "frame": "electric_explode_08",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lightning",
+                    "frame": "electric_explode_09",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lightning",
+                    "frame": "electric_explode_10",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true,
+            "hideOnComplete": true
+        },
+        {
+            "key": "flameExplode",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "flameexplode",
+                    "frame": "flame_explode_01",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "flameexplode",
+                    "frame": "flame_explode_02",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "flameexplode",
+                    "frame": "flame_explode_03",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "flameexplode",
+                    "frame": "flame_explode_04",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "flameexplode",
+                    "frame": "flame_explode_05",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "flameexplode",
+                    "frame": "flame_explode_06",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "flameexplode",
+                    "frame": "flame_explode_07",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "flameexplode",
+                    "frame": "flame_explode_08",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true,
+            "hideOnComplete": true
+        },
+        {
+            "key": "iceExplode",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "iceexplode",
+                    "frame": "01",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "iceexplode",
+                    "frame": "02",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "iceexplode",
+                    "frame": "03",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "iceexplode",
+                    "frame": "04",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "iceexplode",
+                    "frame": "05",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "iceexplode",
+                    "frame": "06",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "iceexplode",
+                    "frame": "07",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "iceexplode",
+                    "frame": "08",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "iceexplode",
+                    "frame": "09",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "iceexplode",
+                    "frame": "10",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "iceexplode",
+                    "frame": "11",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "iceexplode",
+                    "frame": "12",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true,
+            "hideOnComplete": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

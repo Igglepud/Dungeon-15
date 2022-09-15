@@ -1,0 +1,317 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/UI/bottom_connector.png",
+                "type": "image",
+                "key": "bottom_connector"
+            },
+            {
+                "url": "assets/UI/bottom_left_corner.png",
+                "type": "image",
+                "key": "bottom_left_corner"
+            },
+            {
+                "url": "assets/UI/bottom_right_corner.png",
+                "type": "image",
+                "key": "bottom_right_corner"
+            },
+            {
+                "url": "assets/UI/curl_1.png",
+                "type": "image",
+                "key": "curl_1"
+            },
+            {
+                "url": "assets/UI/curl_2.png",
+                "type": "image",
+                "key": "curl_2"
+            },
+            {
+                "url": "assets/UI/curl_3.png",
+                "type": "image",
+                "key": "curl_3"
+            },
+            {
+                "url": "assets/dino.png",
+                "key": "dino",
+                "type": "image"
+            },
+            {
+                "url": "assets/castle/door_closed.png",
+                "type": "image",
+                "key": "door_closed"
+            },
+            {
+                "url": [
+                    "assets/sounds/Door Creak 8.wav"
+                ],
+                "type": "audio",
+                "key": "doorCreak"
+            },
+            {
+                "url": "assets/castle/door_stair_down.png",
+                "type": "image",
+                "key": "doorOpen"
+            },
+            {
+                "url": [
+                    "assets/sounds/Ambience_Horror_Classic_03.wav"
+                ],
+                "type": "audio",
+                "key": "dungeonMusic"
+            },
+            {
+                "url": "assets/effects/effects.json",
+                "type": "animation",
+                "key": "effects"
+            },
+            {
+                "url": [
+                    "assets/sounds/Sweep 6.wav"
+                ],
+                "type": "audio",
+                "key": "electricSound"
+            },
+            {
+                "url": "assets/castle/dungeon.png",
+                "type": "image",
+                "key": "example"
+            },
+            {
+                "url": [
+                    "assets/sounds/Fantasy click sound 9.wav"
+                ],
+                "type": "audio",
+                "key": "collected"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/effects/flameexplode.json",
+                "path": "assets/effects",
+                "key": "flameexplode"
+            },
+            {
+                "url": [
+                    "assets/sounds/Flame Whoosh 2.wav"
+                ],
+                "type": "audio",
+                "key": "flameSound"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/sprites/floor.json",
+                "path": "assets/sprites",
+                "key": "floor"
+            },
+            {
+                "url": "assets/UI/fluer_de_lis.png",
+                "type": "image",
+                "key": "fluer_de_lis"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/sprites/gems.json",
+                "path": "assets/sprites",
+                "key": "gems"
+            },
+            {
+                "url": "assets/UI/head.png",
+                "type": "image",
+                "key": "head"
+            },
+            {
+                "url": "assets/UI/head_no_marks.png",
+                "type": "image",
+                "key": "head_no_marks"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/effects/iceexplode.json",
+                "path": "assets/effects",
+                "key": "iceexplode"
+            },
+            {
+                "url": [
+                    "assets/sounds/Impact Glass 3.wav"
+                ],
+                "type": "audio",
+                "key": "iceSound"
+            },
+            {
+                "url": "assets/UI/left_connector.png",
+                "type": "image",
+                "key": "left_connector"
+            },
+            {
+                "url": "assets/UI/left_right_panel_connector.png",
+                "type": "image",
+                "key": "left_right_panel_connector"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/effects/lightning.json",
+                "path": "assets/effects",
+                "key": "lightning"
+            },
+            {
+                "url": "assets/UI/loading_bar_fill_center_purple.png",
+                "type": "image",
+                "key": "loading_bar_fill_center_purple"
+            },
+            {
+                "url": "assets/UI/loading_bar_fill_center_red.png",
+                "type": "image",
+                "key": "loading_bar_fill_center_red"
+            },
+            {
+                "url": "assets/UI/loading_bar_fill_center_yellow.png",
+                "type": "image",
+                "key": "loading_bar_fill_center_yellow"
+            },
+            {
+                "url": "assets/UI/loading_bar_fill_left_purple.png",
+                "type": "image",
+                "key": "loading_bar_fill_left_purple"
+            },
+            {
+                "url": "assets/UI/loading_bar_fill_right_purple.png",
+                "type": "image",
+                "key": "loading_bar_fill_right_purple"
+            },
+            {
+                "url": "assets/castle/overlay.jpg",
+                "type": "image",
+                "key": "overlay"
+            },
+            {
+                "url": "assets/UI/panel_1000_x_380.png",
+                "type": "image",
+                "key": "panel_1000_x_380"
+            },
+            {
+                "url": "assets/UI/panel_1000_x_700.png",
+                "type": "image",
+                "key": "panel_1000_x_700"
+            },
+            {
+                "url": "assets/UI/panel_1080_x_1080.png",
+                "type": "image",
+                "key": "panel_1080_x_1080"
+            },
+            {
+                "url": "assets/UI/panel_1536_x_1080.png",
+                "type": "image",
+                "key": "panel_1536_x_1080"
+            },
+            {
+                "url": "assets/UI/panel_1920_x_1080.png",
+                "type": "image",
+                "key": "panel_1920_x_1080"
+            },
+            {
+                "url": "assets/UI/panel_1920_x_330.png",
+                "type": "image",
+                "key": "panel_1920_x_330"
+            },
+            {
+                "url": "assets/UI/panel_2048_x_1536.png",
+                "type": "image",
+                "key": "panel_2048_x_1536"
+            },
+            {
+                "url": "assets/UI/panel_330_x_330.png",
+                "type": "image",
+                "key": "panel_330_x_330"
+            },
+            {
+                "url": "assets/UI/panel_345_x_1080.png",
+                "type": "image",
+                "key": "panel_345_x_1080"
+            },
+            {
+                "url": "assets/UI/panel_960_x_330.png",
+                "type": "image",
+                "key": "panel_960_x_330"
+            },
+            {
+                "url": "assets/castle/pillar_base_02.png",
+                "type": "image",
+                "key": "pillar_base_02"
+            },
+            {
+                "url": "assets/castle/pillar_part_small.png",
+                "type": "image",
+                "key": "pillar_part_small"
+            },
+            {
+                "url": "assets/castle/pillar_top_left_end.png",
+                "type": "image",
+                "key": "pillar_top_left_end"
+            },
+            {
+                "url": "assets/castle/pillar_top_right_end.png",
+                "type": "image",
+                "key": "pillar_top_right_end"
+            },
+            {
+                "url": "assets/UI/pointy_head.png",
+                "type": "image",
+                "key": "pointy_head"
+            },
+            {
+                "url": "assets/UI/progress_bar_center.png",
+                "type": "image",
+                "key": "progress_bar_center"
+            },
+            {
+                "url": "assets/UI/progress_bar_container_left.png",
+                "type": "image",
+                "key": "progress_bar_container_left"
+            },
+            {
+                "url": "assets/UI/progress_bar_right.png",
+                "type": "image",
+                "key": "progress_bar_right"
+            },
+            {
+                "url": "assets/UI/right_connector.png",
+                "type": "image",
+                "key": "right_connector"
+            },
+            {
+                "url": [
+                    "assets/sounds/Haunted House 4.wav"
+                ],
+                "type": "audio",
+                "key": "titleSound"
+            },
+            {
+                "url": "assets/UI/top_bottom_panel_connector.png",
+                "type": "image",
+                "key": "top_bottom_panel_connector"
+            },
+            {
+                "url": "assets/UI/top_connector.png",
+                "type": "image",
+                "key": "top_connector"
+            },
+            {
+                "url": "assets/UI/top_left_corner.png",
+                "type": "image",
+                "key": "top_left_corner"
+            },
+            {
+                "url": "assets/UI/top_right_corner.png",
+                "type": "image",
+                "key": "top_right_corner"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "lightning.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 929,
+				"h": 1724
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "electric_explode_09",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 509,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 15,
+						"w": 484,
+						"h": 488
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 484,
+						"h": 488
+					}
+				},
+				{
+					"filename": "electric_explode_08",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 509,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 17,
+						"w": 440,
+						"h": 466
+					},
+					"frame": {
+						"x": 487,
+						"y": 1,
+						"w": 440,
+						"h": 466
+					}
+				},
+				{
+					"filename": "electric_explode_06",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 509,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 23,
+						"w": 432,
+						"h": 463
+					},
+					"frame": {
+						"x": 487,
+						"y": 469,
+						"w": 432,
+						"h": 463
+					}
+				},
+				{
+					"filename": "electric_explode_10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 509,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 19,
+						"w": 476,
+						"h": 481
+					},
+					"frame": {
+						"x": 1,
+						"y": 491,
+						"w": 476,
+						"h": 481
+					}
+				},
+				{
+					"filename": "electric_explode_04",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 509,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 63,
+						"w": 390,
+						"h": 360
+					},
+					"frame": {
+						"x": 479,
+						"y": 934,
+						"w": 390,
+						"h": 360
+					}
+				},
+				{
+					"filename": "electric_explode_07",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 509,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 8,
+						"w": 475,
+						"h": 486
+					},
+					"frame": {
+						"x": 1,
+						"y": 974,
+						"w": 475,
+						"h": 486
+					}
+				},
+				{
+					"filename": "electric_explode_05",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 509,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 39,
+						"w": 450,
+						"h": 427
+					},
+					"frame": {
+						"x": 478,
+						"y": 1296,
+						"w": 450,
+						"h": 427
+					}
+				},
+				{
+					"filename": "electric_explode_03",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 509,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 153,
+						"w": 246,
+						"h": 231
+					},
+					"frame": {
+						"x": 1,
+						"y": 1462,
+						"w": 246,
+						"h": 231
+					}
+				},
+				{
+					"filename": "electric_explode_02",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 509,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 192,
+						"y": 224,
+						"w": 123,
+						"h": 100
+					},
+					"frame": {
+						"x": 249,
+						"y": 1462,
+						"w": 123,
+						"h": 100
+					}
+				},
+				{
+					"filename": "electric_explode_01",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 509,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 220,
+						"y": 228,
+						"w": 85,
+						"h": 80
+					},
+					"frame": {
+						"x": 374,
+						"y": 1462,
+						"w": 85,
+						"h": 80
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e5cda28478b7bdcc3bdc8a9240c51b86:1e47d3e36aedb53d759997f44de80ebb:25be3648ac3d733248850a03c6feeca1$"
+	}
+}

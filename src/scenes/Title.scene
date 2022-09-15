@@ -1,0 +1,121 @@
+{
+    "id": "f44de4dc-3434-435b-9dda-35a54c1103e1",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Title",
+        "borderWidth": 1600,
+        "borderHeight": 900
+    },
+    "displayList": [
+        {
+            "type": "TileSprite",
+            "id": "0e260599-3f3b-492d-80a3-e22974110b89",
+            "label": "1",
+            "components": [],
+            "texture": {
+                "key": "floor",
+                "frame": "1"
+            },
+            "x": 857,
+            "y": 423,
+            "width": 2048,
+            "height": 1280
+        },
+        {
+            "type": "Image",
+            "id": "005cc153-335a-43de-88ba-8fa834dba614",
+            "label": "pillar_base_02",
+            "components": [],
+            "texture": {
+                "key": "pillar_base_02"
+            },
+            "x": 224,
+            "y": 778
+        },
+        {
+            "type": "Image",
+            "id": "4900b4b4-f3d0-429d-9de2-8af887be2cb9",
+            "label": "pillar_base",
+            "components": [],
+            "texture": {
+                "key": "pillar_base_02"
+            },
+            "x": 1331.3333333333333,
+            "y": 778
+        },
+        {
+            "type": "Image",
+            "id": "04122e24-4e10-4a34-80e5-0b7dca0146c8",
+            "label": "pillar_top_left_end",
+            "components": [],
+            "texture": {
+                "key": "pillar_top_left_end"
+            },
+            "x": 355,
+            "y": 262
+        },
+        {
+            "type": "Image",
+            "id": "eae45439-62d5-4349-8bf2-ff33679a1777",
+            "label": "pillar_part_small_1",
+            "components": [],
+            "texture": {
+                "key": "pillar_part_small"
+            },
+            "x": 1331.3333333333333,
+            "y": 477.5
+        },
+        {
+            "type": "Image",
+            "id": "fcd3b7cb-ba6d-48bc-8293-4779ec932902",
+            "label": "pillar_top_right_end",
+            "components": [],
+            "texture": {
+                "key": "pillar_top_right_end"
+            },
+            "x": 1194,
+            "y": 274
+        },
+        {
+            "type": "Image",
+            "id": "06b81254-86bd-4f5a-96ac-1451327ce827",
+            "label": "door",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "door_closed"
+            },
+            "x": 767,
+            "y": 415,
+            "scaleX": 1.2909959409300793,
+            "scaleY": 1.2909959409300793
+        },
+        {
+            "type": "Image",
+            "id": "a0e0ecbf-dfde-415d-a4cf-81b63f64b701",
+            "label": "overlay",
+            "components": [],
+            "texture": {
+                "key": "overlay"
+            },
+            "x": 786,
+            "y": 444,
+            "scaleX": 2.110660741707317,
+            "scaleY": 1.6429461766822357,
+            "alpha": 0.25,
+            "alphaTopLeft": 0.25,
+            "alphaTopRight": 0.25,
+            "alphaBottomLeft": 0.25,
+            "alphaBottomRight": 0.25
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "id": "9a2ca238-1fee-4cb9-92d2-d3d69c87bc02",
+    "sceneType": "SCENE",
+    "settings": {
+        "snapWidth": 1600,
+        "snapHeight": 900,
+        "preloadMethodName": "editorPreload",
+        "preloadPackFiles": [
+            "Hexamine/assets/asset-pack.json"
+        ],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Dungeon",
+        "borderWidth": 1600,
+        "borderHeight": 900
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "d1d1b828-0617-4b1d-9bfe-2f2046389cf7",
+            "label": "background",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "example"
+            },
+            "x": -818,
+            "y": 579
+        },
+        {
+            "type": "Image",
+            "id": "9d174a64-5647-4d23-a9b5-ba148ee97ebe",
+            "label": "progress_bar_container_left",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_container_left"
+            },
+            "x": 282,
+            "y": 144,
+            "scaleX": 3.406938093944062,
+            "scaleY": 3.406938093944062
+        },
+        {
+            "type": "Image",
+            "id": "2969cc4a-ce69-4895-81bb-9896f1d4fa27",
+            "label": "progress_bar_container_left_1",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_container_left"
+            },
+            "x": 1344,
+            "y": 144,
+            "scaleX": 3.406938093944062,
+            "scaleY": 3.406938093944062,
+            "flipX": true
+        },
+        {
+            "type": "TileSprite",
+            "id": "d043de0b-4477-4e9d-b6c4-3095508d4258",
+            "label": "progress_bar_center",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_center"
+            },
+            "x": 813,
+            "y": 144,
+            "scaleX": 3.406938093944062,
+            "scaleY": 3.406938093944062,
+            "width": 220,
+            "height": 100,
+            "tileScaleX": 10
+        },
+        {
+            "type": "TileSprite",
+            "id": "c93f6212-46d4-4f42-9ef2-cc399bf4c683",
+            "label": "loadingBar",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "loading_bar_fill_center_purple"
+            },
+            "x": 354,
+            "y": -24,
+            "scaleY": 3.406938093944062,
+            "originX": 0,
+            "originY": 0,
+            "width": 924,
+            "height": 100
+        },
+        {
+            "type": "Image",
+            "id": "9cde4eef-09f2-4d84-94af-3ac0044f1645",
+            "label": "progress_bar_container_left_2",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_container_left"
+            },
+            "x": 75,
+            "y": 846
+        },
+        {
+            "type": "TileSprite",
+            "id": "f759b8a0-294f-4aff-aa63-c22b84a0e611",
+            "label": "progress_bar_center_1",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_center"
+            },
+            "x": 231,
+            "y": 846,
+            "width": 220,
+            "height": 100,
+            "tileScaleX": 10
+        },
+        {
+            "type": "Image",
+            "id": "23982603-6fd0-41e4-8f04-30348a2b5e70",
+            "label": "progress_bar_container_left_3",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_container_left"
+            },
+            "x": 387,
+            "y": 846,
+            "flipX": true
+        },
+        {
+            "type": "Image",
+            "id": "df374b77-8972-48ae-933a-00d65bcf3596",
+            "label": "progress_bar_container_left_4",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_container_left"
+            },
+            "x": 1551,
+            "y": 846,
+            "flipX": true
+        },
+        {
+            "type": "Image",
+            "id": "e818022c-4e34-4e35-a320-c08c72cf56a9",
+            "label": "progress_bar_container_left_5",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_container_left"
+            },
+            "x": 1239,
+            "y": 846
+        },
+        {
+            "type": "TileSprite",
+            "id": "8f1dcf1d-73c4-4617-a247-13b7ed242905",
+            "label": "progress_bar_center_2",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_center"
+            },
+            "x": 1395,
+            "y": 846,
+            "width": 220,
+            "height": 100,
+            "tileScaleX": 10
+        },
+        {
+            "type": "TileSprite",
+            "id": "dc783166-eb62-4754-84e2-05b36d3cfc1c",
+            "label": "healthBar",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "loading_bar_fill_center_red"
+            },
+            "x": 232,
+            "y": 846,
+            "width": 264,
+            "height": 100
+        },
+        {
+            "type": "TileSprite",
+            "id": "ff3a4b74-0a15-4ffb-976b-8e83c7b00d3d",
+            "label": "expBar",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "loading_bar_fill_center_yellow"
+            },
+            "x": 1394,
+            "y": 846,
+            "width": 264,
+            "height": 100
+        },
+        {
+            "type": "Image",
+            "id": "8eaab251-63ab-4412-8dea-7b053c957da3",
+            "label": "bottom_connector",
+            "components": [],
+            "texture": {
+                "key": "bottom_connector"
+            },
+            "x": -416,
+            "y": 480
+        },
+        {
+            "type": "Image",
+            "id": "97979714-0bf8-47ea-9304-453eb5638a40",
+            "label": "overlay",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "overlay"
+            },
+            "x": 804,
+            "y": 465,
+            "scaleX": 2.1063155665951636,
+            "scaleY": 1.519290603205571,
+            "flipX": true,
+            "alpha": 0.25,
+            "alphaTopLeft": 0.25,
+            "alphaTopRight": 0.25,
+            "alphaBottomLeft": 0.25,
+            "alphaBottomRight": 0.25
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

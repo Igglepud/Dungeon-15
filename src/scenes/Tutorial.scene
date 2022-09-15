@@ -1,0 +1,233 @@
+{
+    "id": "3717ccee-7e0d-42a3-ac75-eb75bcb44766",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Tutorial",
+        "borderWidth": 1600,
+        "borderHeight": 900
+    },
+    "displayList": [
+        {
+            "type": "TileSprite",
+            "id": "3911e888-a240-4b4c-a14e-46cc18b1e241",
+            "label": "expBar",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "loading_bar_fill_center_yellow"
+            },
+            "x": 1381,
+            "y": 810,
+            "width": 264,
+            "height": 100
+        },
+        {
+            "type": "TileSprite",
+            "id": "cf8f87fb-576d-40aa-be19-d0fe8ddc34c1",
+            "label": "healthBar",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "loading_bar_fill_center_red"
+            },
+            "x": 219,
+            "y": 810,
+            "width": 264,
+            "height": 100
+        },
+        {
+            "type": "TileSprite",
+            "id": "27552484-405b-4195-b8f9-34f61c898c2f",
+            "label": "progress_bar_center_2",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_center"
+            },
+            "x": 1382,
+            "y": 810,
+            "width": 220,
+            "height": 100,
+            "tileScaleX": 10
+        },
+        {
+            "type": "Image",
+            "id": "798e8d43-2a1b-4439-a414-99d2cd0a47c6",
+            "label": "progress_bar_container_left_5",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_container_left"
+            },
+            "x": 1226,
+            "y": 810
+        },
+        {
+            "type": "Image",
+            "id": "81b15ca1-ec99-4c5e-a9bd-2a185ee0372d",
+            "label": "progress_bar_container_left_4",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_container_left"
+            },
+            "x": 1538,
+            "y": 810,
+            "flipX": true
+        },
+        {
+            "type": "Image",
+            "id": "d78d5dad-4eba-48a5-8793-d6d734488205",
+            "label": "progress_bar_container_left_3",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_container_left"
+            },
+            "x": 374,
+            "y": 810,
+            "flipX": true
+        },
+        {
+            "type": "TileSprite",
+            "id": "4f918686-02a0-4e86-bb84-41b40edb98b3",
+            "label": "progress_bar_center_1",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_center"
+            },
+            "x": 218,
+            "y": 810,
+            "width": 220,
+            "height": 100,
+            "tileScaleX": 10
+        },
+        {
+            "type": "Image",
+            "id": "54f90393-9b89-4c46-92da-d1e96051de0a",
+            "label": "progress_bar_container_left_2",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_container_left"
+            },
+            "x": 62,
+            "y": 810
+        },
+        {
+            "type": "TileSprite",
+            "id": "af516999-5b08-443b-8475-eb66f83e81a4",
+            "label": "loadingBar",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "loading_bar_fill_center_purple"
+            },
+            "x": 341,
+            "y": -60,
+            "scaleY": 3.406938093944062,
+            "originX": 0,
+            "originY": 0,
+            "width": 924,
+            "height": 100
+        },
+        {
+            "type": "TileSprite",
+            "id": "ec59d743-b713-4a43-8d6e-286b4b1634dc",
+            "label": "progress_bar_center",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_center"
+            },
+            "x": 800,
+            "y": 108,
+            "scaleX": 3.406938093944062,
+            "scaleY": 3.406938093944062,
+            "width": 220,
+            "height": 100,
+            "tileScaleX": 10
+        },
+        {
+            "type": "Image",
+            "id": "0778c6fc-1799-459f-ba5e-ad11de974f44",
+            "label": "progress_bar_container_left_1",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_container_left"
+            },
+            "x": 1331,
+            "y": 108,
+            "scaleX": 3.406938093944062,
+            "scaleY": 3.406938093944062,
+            "flipX": true
+        },
+        {
+            "type": "Image",
+            "id": "e96fdd11-3a26-40fd-98ee-b26d1f1a6785",
+            "label": "progress_bar_container_left",
+            "components": [],
+            "texture": {
+                "key": "progress_bar_container_left"
+            },
+            "x": 269,
+            "y": 108,
+            "scaleX": 3.406938093944062,
+            "scaleY": 3.406938093944062
+        },
+        {
+            "type": "Text",
+            "id": "c7480462-e084-4da9-9989-82d7c7a9fb96",
+            "label": "text_1",
+            "scope": "CLASS",
+            "components": [],
+            "x": 501,
+            "y": 43,
+            "text": "This bar tells you\nhow many gems you \nneed to collect.",
+            "fontFamily": "GRAVEDIGGER",
+            "fontSize": "48px"
+        },
+        {
+            "type": "Text",
+            "id": "6637ceae-f72b-4da0-b73e-9729bda43053",
+            "label": "text",
+            "scope": "CLASS",
+            "components": [],
+            "x": 29,
+            "y": 623,
+            "text": "This is your health.\n If this bar is \nempty, you die.",
+            "fontFamily": "GRAVEDIGGER",
+            "fontSize": "48px",
+            "color": "#000"
+        },
+        {
+            "type": "Text",
+            "id": "665ca4a4-8a8a-41b6-853b-1c4230d7cf56",
+            "label": "text_2",
+            "scope": "CLASS",
+            "components": [],
+            "x": 1032,
+            "y": 566,
+            "text": "Gain experience by\ncollecting gems. \nWhen you level up\nyou get more health.",
+            "fontFamily": "GRAVEDIGGER",
+            "fontSize": "48px",
+            "color": "#000"
+        },
+        {
+            "type": "Text",
+            "id": "eeedcf92-9150-4272-a2f6-028bdd918590",
+            "label": "text_3",
+            "scope": "CLASS",
+            "components": [],
+            "x": 501,
+            "y": 237,
+            "text": "Click gems to \ncollect them. Some\ngems are trapped. Gem\ncolor warns you of \nnearby danger. Collect\nall gems to advance\nto the next floor.",
+            "fontFamily": "GRAVEDIGGER",
+            "fontSize": "48px",
+            "color": "#000"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}
